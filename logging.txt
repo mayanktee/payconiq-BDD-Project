@@ -30,12 +30,12 @@ Connection: keep-alive
 X-Powered-By: Express
 Content-Type: application/json; charset=utf-8
 Content-Length: 197
-Etag: W/"c5-3Yb215KtGamTIn7hsIA4m2HA3V0"
-Date: Sat, 14 Jan 2023 09:08:29 GMT
+Etag: W/"c5-K7dX9XBpd1TA5ZxxBczsrhw92io"
+Date: Sat, 14 Jan 2023 10:25:19 GMT
 Via: 1.1 vegur
 
 {
-    "bookingid": 9220,
+    "bookingid": 5864,
     "booking": {
         "firstname": "Jim",
         "lastname": "Brown",
@@ -49,14 +49,14 @@ Via: 1.1 vegur
     }
 }
 Request method:	DELETE
-Request URI:	http://restful-booker.herokuapp.com/booking/9220
+Request URI:	http://restful-booker.herokuapp.com/booking/5864
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	bookingid=9220
+Path params:	bookingid=5864
 Headers:		Accept=application/json
-				Cookie=token=5c294d6a99c5e33
+				Cookie=token=d3b8b5e71377793
 				Content-Type=application/json
 Cookies:		<none>
 Multiparts:		<none>
@@ -68,7 +68,7 @@ X-Powered-By: Express
 Content-Type: text/plain; charset=utf-8
 Content-Length: 7
 Etag: W/"7-rM9AyJuqT6iOan/xHh+AW+7K/T8"
-Date: Sat, 14 Jan 2023 09:08:31 GMT
+Date: Sat, 14 Jan 2023 10:25:21 GMT
 Via: 1.1 vegur
 
 Created
